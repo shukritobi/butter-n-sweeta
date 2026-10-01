@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1120" role="img" aria-label="Illustrated Butter n' Sweeta cookies placeholder">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe89c"/><stop offset="1" stop-color="#f4c34b"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-opacity=".16"/></filter></defs>
+<rect width="900" height="1120" rx="72" fill="url(#g)"/>
+<circle cx="120" cy="130" r="44" fill="#173f34" opacity=".11"/><circle cx="794" cy="954" r="68" fill="#fff" opacity=".23"/>
+<ellipse cx="450" cy="795" rx="342" ry="114" fill="#fff8e6" stroke="#173f34" stroke-width="8" filter="url(#s)"/>
+<g filter="url(#s)">
+<circle cx="360" cy="565" r="220" fill="#bd7131" stroke="#743b1d" stroke-width="12"/>
+<circle cx="550" cy="645" r="200" fill="#d88a41" stroke="#854b20" stroke-width="12"/>
+</g>
+<g fill="#3b2317"><circle cx="276" cy="482" r="25"/><circle cx="379" cy="420" r="29"/><circle cx="464" cy="527" r="23"/><circle cx="318" cy="630" r="28"/><circle cx="427" cy="686" r="20"/><circle cx="538" cy="555" r="27"/><circle cx="610" cy="645" r="25"/><circle cx="536" cy="732" r="21"/><circle cx="649" cy="735" r="18"/></g>
+<g fill="#fff2c3"><circle cx="247" cy="556" r="11"/><circle cx="432" cy="574" r="12"/><circle cx="583" cy="504" r="13"/><circle cx="506" cy="684" r="10"/></g>
+<text x="450" y="170" text-anchor="middle" font-family="Arial Rounded MT Bold, Avenir Next, sans-serif" font-size="78" font-weight="900" fill="#173f34">Fresh Never</text>
+<text x="450" y="252" text-anchor="middle" font-family="Arial Rounded MT Bold, Avenir Next, sans-serif" font-size="78" font-weight="900" fill="#173f34">Ordinary.</text>
+<text x="450" y="1030" text-anchor="middle" font-family="Avenir Next, Arial, sans-serif" font-size="34" font-weight="700" fill="#173f34">Product photo placeholder</text>
+</svg>
