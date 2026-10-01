@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Butter n' Sweeta placeholder logo">
+<rect width="600" height="600" rx="150" fill="#fffaf0"/>
+<path d="M145 201c22-58 96-85 161-61 49-33 124-12 143 43 59 10 91 81 57 129 20 63-35 129-101 124-42 46-120 41-156-8-67 14-126-43-114-108-43-36-38-96 10-119z" fill="#f7c84e" stroke="#173f34" stroke-width="16"/>
+<text x="300" y="279" text-anchor="middle" font-family="Arial Rounded MT Bold, Avenir Next, sans-serif" font-weight="900" font-size="72" fill="#173f34">Butter n'</text>
+<text x="300" y="355" text-anchor="middle" font-family="Arial Rounded MT Bold, Avenir Next, sans-serif" font-weight="900" font-size="72" fill="#173f34">Sweeta</text>
+<path d="M189 392c70 28 151 29 223 0" fill="none" stroke="#173f34" stroke-width="12" stroke-linecap="round"/>
+</svg>
